@@ -5,6 +5,10 @@ bin/
 # Log file
 *.log
 
+# IntelliJ files
+.idea/
+/out/
+
 # BlueJ files
 *.ctxt
 
