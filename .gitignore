@@ -8,6 +8,7 @@ bin/
 # IntelliJ files
 .idea/
 /out/
+/*.iml
 
 # BlueJ files
 *.ctxt
